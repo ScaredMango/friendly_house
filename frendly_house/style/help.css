@@ -1,0 +1,30 @@
+.help-title__yelloy {
+    text-align: center;
+    color: #ff8a00;
+    margin-bottom: 100px;
+}
+
+
+.help-list__item-title{
+    font-size: 30px;
+    line-height: 40px;
+    color: #282626;
+    margin-bottom: 35px;
+}
+
+
+.help-list__item:not(:last-child) {
+    margin-bottom: 120px;
+}
+
+
+.help-list__item::marker {
+    font-size: 50px;
+    line-height: 50px;
+    color: #ff8a00;
+}
+
+
+.help-list__item-text_spesial {
+    font-weight: 600;
+}
